@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ay&theme=transparent&card_width=652)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayush-shirode&theme=transparent&hide_border=true&card_width=652)](https://git.io/streak-stats)
 
 <!--
 **ayush-shirode/ayush-shirode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
